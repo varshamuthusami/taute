@@ -1,5 +1,6 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # 🍽️ Taute – Restaurant Booking & Food Delivery App
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 *A modern solution for restaurant reservations, food delivery, and real-time restaurant content.*
 
