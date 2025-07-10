@@ -26,6 +26,7 @@
 Each restaurant has its **own dynamic page** containing:
 
 * **Details**: Name, location, duration, distance and average rating.
+
 Tabs:
 
 Posts: Visual content (images, updates) shared by the restaurant.
